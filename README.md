@@ -55,7 +55,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeyad-Diaa12&show_icons=true&locale=en&theme=dark" alt="Zeyad-Diaa12" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-Diaa12&" alt="Zeyad-Diaa12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeyad-Diaa12" alt="Zeyad-Diaa12" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeyad-Diaa12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Zeyad-Diaa12" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeyad-Diaa12&theme=darkhub" alt="Zeyad-Diaa12" /></a></p>
 
